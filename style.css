@@ -1,16 +1,22 @@
 header{
     background-image: url(img/pattern.png);
-background-color: lightblue;
-    height: 200px;
+    background-color:#6699ff;
+    height: 170px;
+    width: 90%;
+    margin: auto;
 }
 .container{
     width: 90%;
     margin: auto;
-
+    font-weight: 500;
 }
 header img{
-    height: 80px;
-    padding-top: 110px;
+    height: 50px;
+    padding-top: 100px;
+}
+h1{
+    font-size: 60px;
+    margin-left: 0;
 }
 .author{
     color: blue;
@@ -20,16 +26,21 @@ header img{
     margin-top: 0;
 }
 .photo{
-    width: 400px;
-    height: 300px;
-
+    width: 600px;
+   height: 500px;
 }
 .photo_footer{
     margin: 0;
     font-size: 10px;
 }
+
 .highlights{
     background-color: yellow;
+}
+.list{
+    padding-top: 10px;
+    padding-bottom:10px ;
+    margin-left: 0;
 }
 thead th{
 text-align: left;
@@ -42,4 +53,12 @@ color:black;
 }
 table{
     border-spacing: 0;
+}
+.testo{
+    font-size: 17px;
+}
+.finale{
+    padding-top: 20px;
+    margin-bottom: 10px;
+    font-size: 17px;
 }
