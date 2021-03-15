@@ -7,11 +7,17 @@ header img{
     height: 80px;
     padding-top: 110px;
 }
-.date_publication{
-font-size: 10px;
-margin-top: 0;
+.author{
+    color: blue;
+}
+.date{
+    font-size: 10px;
+    margin-top: 0;
 }
 .photo_footer{
     margin: 0;
     font-size: 10px;
+}
+thead th{
+text-align: left;
 }
