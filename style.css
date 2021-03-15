@@ -3,6 +3,11 @@ header{
 background-color: lightblue;
     height: 200px;
 }
+.container{
+    width: 90%;
+    margin: auto;
+
+}
 header img{
     height: 80px;
     padding-top: 110px;
@@ -23,4 +28,13 @@ header img{
 }
 thead th{
 text-align: left;
+background-color: dodgerblue;
+color: white;
+}
+.disparo{
+background-color:lightblue;
+color:black;
+}
+table{
+    border-spacing: 0;
 }
