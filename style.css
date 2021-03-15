@@ -18,6 +18,9 @@ header img{
     margin: 0;
     font-size: 10px;
 }
+.highlights{
+    background-color: yellow;
+}
 thead th{
 text-align: left;
 }
